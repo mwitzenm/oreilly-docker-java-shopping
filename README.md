@@ -4,6 +4,7 @@ Alernate easy binary build with micro services
 git clone https://github.com/mwitzenm/oreilly-docker-java-shopping.git
 
 Do what it says in the Alternate section of each of these README.md's
+
 productcatalogue/README.md
 shopfront/README.md
 stockmanager/README.md
