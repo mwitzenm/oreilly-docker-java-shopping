@@ -5,9 +5,9 @@ git clone https://github.com/mwitzenm/oreilly-docker-java-shopping.git
 
 Do what it says in the Alternate section of each of these README.md's
 
-productcatalogue/README.md
-shopfront/README.md
-stockmanager/README.md
+https://github.com/mwitzenm/oreilly-docker-java-shopping/blob/master/productcatalogue/README.md
+https://github.com/mwitzenm/oreilly-docker-java-shopping/blob/master/shopfront/README.md
+https://github.com/mwitzenm/oreilly-docker-java-shopping/blob/master/stockmanager/README.md
 
 ```
 
