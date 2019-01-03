@@ -8,8 +8,14 @@ docker run -p 9010:9010 -p 9011:9011 -d danielbryantuk/product
 
 Alternate OCP way
 =================
+```
 cd productcatalogue/
+
 mvn clean install
+
 docker build -t mwitzenm/djproductcatalogue:1.0 .
+
 docker push mwitzenm/djproductcatalogue:1.0
+
 apply -f ../kubernetes/productcatalogue-service.yaml
+```
