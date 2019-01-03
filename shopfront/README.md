@@ -1,3 +1,6 @@
+Alternate OCP way
+=================
+
 ```
 cd shopfront/
 
