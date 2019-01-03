@@ -15,4 +15,6 @@ oc apply -f ../kubernetes/shopfront-service.yaml
 
 ### OR if you just want to run it without git clone ###
 oc apply -f https://raw.githubusercontent.com/mwitzenm/oreilly-docker-java-shopping/master/kubernetes/shopfront-service.yaml
+
+oc expose service shopfront
 ```
