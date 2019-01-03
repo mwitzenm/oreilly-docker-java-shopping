@@ -20,4 +20,7 @@ docker push mwitzenm/djproductcatalogue:1.0
 
 ### IF you just want to build it from my image on docekerhub ###
 oc apply -f ../kubernetes/productcatalogue-service.yaml
+
+### OR if you just want to run it without git clone ###
+oc apply -f https://raw.githubusercontent.com/mwitzenm/oreilly-docker-java-shopping/master/kubernetes/productcatalogue-service.yaml
 ```
