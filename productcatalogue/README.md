@@ -17,5 +17,5 @@ docker build -t mwitzenm/djproductcatalogue:1.0 .
 
 docker push mwitzenm/djproductcatalogue:1.0
 
-apply -f ../kubernetes/productcatalogue-service.yaml
+oc apply -f ../kubernetes/productcatalogue-service.yaml
 ```
