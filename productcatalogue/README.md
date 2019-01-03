@@ -18,5 +18,6 @@ docker build -t mwitzenm/djproductcatalogue:1.0 .
 
 docker push mwitzenm/djproductcatalogue:1.0
 
+### IF you just want to build it from my image on docekerhub ###
 oc apply -f ../kubernetes/productcatalogue-service.yaml
 ```
